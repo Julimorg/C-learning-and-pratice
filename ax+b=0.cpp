@@ -8,10 +8,6 @@ int main()
 	scanf("%d",&a);
 	printf("input b:");
 	scanf("%d",&b);
-	if( a < 0 )
-	{
-		printf("Error! Cant Solve the problem!");
-	}
 	if( a == 0)
 	{
 		printf("Error! Cant solve the problem!");
